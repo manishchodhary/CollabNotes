@@ -222,4 +222,4 @@ This means the backend only gets called when the user actually pauses — effici
 
 ##  Author
 
-Built by **[MANISH]** 
+Built by **MANISH** 
